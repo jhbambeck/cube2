@@ -1,0 +1,12 @@
+      r r r 
+      r r r 
+      r r r 
+      b b b
+      b b b
+      b b b
+y y y w w w g g g
+y y y w w w g g g
+y y y w w w g g g
+      o o o
+      o o o
+      o o o 
